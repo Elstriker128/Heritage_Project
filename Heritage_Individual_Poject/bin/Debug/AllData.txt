@@ -1,0 +1,16 @@
+﻿ 2022 
+Jokailaitis     | Jonas           | 1990-04-03 | 37065878509     | 3        | KTU76145416     | No Data   
+
+
+
+ 2021 
+Lukas           | Balys           | 1999-07-08 | 37058897996     | No Data  | No Data         | TELTONIKA 
+Jokailaitis1    | Jonas           | 1990-05-03 | 37065878509     | 2        | KTU76145416     | No Data   
+
+
+
+ 2020 
+Jokailaitis     | Jonas           | 1990-05-03 | 37065878509     | 2        | KTU76145416     | No Data   
+
+
+

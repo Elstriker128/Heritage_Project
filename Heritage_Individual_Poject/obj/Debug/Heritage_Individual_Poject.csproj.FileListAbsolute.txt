@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Desktop\VSP\Heritage_Individual_Poject\bin\Debug\Heritage_Individual_Poject.exe.config
+C:\Users\User\OneDrive\Desktop\VSP\Heritage_Individual_Poject\bin\Debug\Heritage_Individual_Poject.exe
+C:\Users\User\OneDrive\Desktop\VSP\Heritage_Individual_Poject\bin\Debug\Heritage_Individual_Poject.pdb
+C:\Users\User\OneDrive\Desktop\VSP\Heritage_Individual_Poject\obj\Debug\Heritage_Individual_Poject.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\VSP\Heritage_Individual_Poject\obj\Debug\Heritage_Individual_Poject.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\VSP\Heritage_Individual_Poject\obj\Debug\Heritage_Individual_Poject.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\VSP\Heritage_Individual_Poject\obj\Debug\Heritage_Individual_Poject.exe
+C:\Users\User\OneDrive\Desktop\VSP\Heritage_Individual_Poject\obj\Debug\Heritage_Individual_Poject.pdb
+C:\Users\dovsta10\Documents\Heritage_Individual_Poject\bin\Debug\Heritage_Individual_Poject.exe.config
+C:\Users\dovsta10\Documents\Heritage_Individual_Poject\bin\Debug\Heritage_Individual_Poject.exe
+C:\Users\dovsta10\Documents\Heritage_Individual_Poject\bin\Debug\Heritage_Individual_Poject.pdb
+C:\Users\dovsta10\Documents\Heritage_Individual_Poject\obj\Debug\Heritage_Individual_Poject.csproj.AssemblyReference.cache
+C:\Users\dovsta10\Documents\Heritage_Individual_Poject\obj\Debug\Heritage_Individual_Poject.csproj.SuggestedBindingRedirects.cache
+C:\Users\dovsta10\Documents\Heritage_Individual_Poject\obj\Debug\Heritage_Individual_Poject.csproj.CoreCompileInputs.cache
+C:\Users\dovsta10\Documents\Heritage_Individual_Poject\obj\Debug\Heritage_Individual_Poject.exe
+C:\Users\dovsta10\Documents\Heritage_Individual_Poject\obj\Debug\Heritage_Individual_Poject.pdb
